@@ -1,6 +1,7 @@
 package com.example.myapplication
 
-class pessoa {
+open class pessoa {
 
-    val nome: String, var idade:Int
+    val nome = "saiki"
+    var Idade = 19
 }
